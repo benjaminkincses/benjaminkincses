@@ -48,8 +48,9 @@ I spend most of my time on open source and security research. I find real bugs, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=benjaminkincses&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="github stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminkincses&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjaminkincses&theme=github_dark" alt="profile details" width="100%"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benjaminkincses&theme=github_dark" alt="github stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benjaminkincses&theme=github_dark" alt="repos per language"/>
 
 </div>
 
