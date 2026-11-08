@@ -31,7 +31,7 @@ Payload CMS, pnpm, Medusa, prettier/plugin-php and more.
 <div align="center">
 
 ![GitHub](https://img.shields.io/badge/GitHub-benjaminkincses-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-Cor__115-FC6D26?style=for-the-badge&logo=gitlab)
+![GitLab](https://img.shields.io/badge/GitLab-benjaminkincses-FC6D26?style=for-the-badge&logo=gitlab)
 ![X](https://img.shields.io/badge/X-@benihacking-000000?style=for-the-badge&logo=x)
 ![HackerOne](https://img.shields.io/badge/HackerOne-zer0__c0ol-111111?style=for-the-badge)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Cor-F26522?style=for-the-badge)
