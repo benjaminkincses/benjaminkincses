@@ -24,8 +24,10 @@ find real bugs in other people's code. prove every one of them.
 fix them properly, with tests. get the fix merged.
 
 $ ./status --now
-48 PRs merged in the current sprint to 100, across mypy, Home Assistant,
+50 PRs merged in the current sprint to 100, across mypy, Home Assistant,
 Payload CMS, pnpm, Medusa, prettier/plugin-php and more.
+10 CVEs published on WPScan on 2026-11-09, listed below.
+first paid bug bounty accepted on YesWeHack.
 ```
 
 <div align="center">
@@ -44,7 +46,7 @@ Payload CMS, pnpm, Medusa, prettier/plugin-php and more.
 
 ## ~/open-source
 
-I spend most of my time on open source and security research. I find real bugs, fix them, and get the fixes merged. 48 merged pull requests in my current sprint toward 100, sitting in mypy, Home Assistant, Payload CMS, Medusa, pnpm, prettier plugin-php, and a long list of smaller projects. I prefer fixes with tests over drive-by changes, and I stay on a thread until the maintainer is satisfied.
+I spend most of my time on open source and security research. I find real bugs, fix them, and get the fixes merged. 50 merged pull requests in my current sprint toward 100, sitting in mypy, Home Assistant, Payload CMS, Medusa, pnpm, prettier plugin-php, and a long list of smaller projects. I prefer fixes with tests over drive-by changes, and I stay on a thread until the maintainer is satisfied.
 
 <div align="center">
 
@@ -57,6 +59,23 @@ I spend most of my time on open source and security research. I find real bugs, 
 ## ~/security-research
 
 Code audits and bug bounties. Active on HackerOne, Bugcrowd, Intigriti, and YesWeHack. Every finding gets a working proof of concept before it is reported. No proof, no report.
+
+**Published on WPScan, 2026-11-09: 10 CVEs in Security For WooCommerce <= 1.0.16**
+
+All 10 unauthenticated, all credited to me on WPScan, no fix available:
+
+- [CVE-2026-123696](https://wpscan.com/vulnerability/60efadce-ae1b-448c-9e9c-aa65ee5e028d), two-factor authentication reset
+- [CVE-2026-123697](https://wpscan.com/vulnerability/58f2562b-e108-46ab-92bb-3430109dab1f), two-factor code and secret disclosure
+- [CVE-2026-123698](https://wpscan.com/vulnerability/f13ecbe7-8abb-4736-be5c-fd38f402181c), plugin settings disclosure via REST API
+- [CVE-2026-123699](https://wpscan.com/vulnerability/344ca520-dc28-4d52-a400-559d23359d23), forced plugin, theme and core updates
+- [CVE-2026-123700](https://wpscan.com/vulnerability/3facdee3-eb7e-458c-b496-9946f8e2d1f0), mass comment deletion
+- [CVE-2026-123701](https://wpscan.com/vulnerability/9d65f64f-b9d5-488d-a81d-4013a1b1fc9e), plugin settings reset
+- [CVE-2026-123702](https://wpscan.com/vulnerability/28de2af4-74aa-497d-9f1a-69d40c72fea5), wp-config keys and salts reset and denial of service
+- [CVE-2026-123703](https://wpscan.com/vulnerability/6b255385-26ae-416c-8c2d-a673508aa212), arbitrary user logout
+- [CVE-2026-123704](https://wpscan.com/vulnerability/b7e8fa76-32c0-48ea-a685-2a75ffe94cd1), administrator email address disclosure
+- [CVE-2026-123705](https://wpscan.com/vulnerability/cb9bbd7a-c13a-4129-a910-45746af203ce), server configuration information disclosure
+
+The same list is on my [research page](https://benihacking.top/research.html).
 
 Filed GitHub security advisories:
 
