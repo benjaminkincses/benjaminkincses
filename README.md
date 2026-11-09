@@ -137,7 +137,7 @@ TypeScript and JavaScript, Python, PHP. Node.js, React, Next.js. WordPress and W
 
 - GitHub: you are here.
 - Portfolio and contact form: [benihacking.top](https://benihacking.top)
-- Writing: [dev.to/dextheking1](https://dev.to/dextheking1)
+- Writing: [dev.to/benjaminkincses](https://dev.to/benjaminkincses)
 - Security reports: if I filed an advisory on your project, reply on the advisory. It is the fastest route to me.
 
 <div align="center">
