@@ -64,16 +64,16 @@ Code audits and bug bounties. Active on HackerOne, Bugcrowd, Intigriti, and YesW
 
 All 10 unauthenticated, all credited to me on WPScan, no fix available:
 
-- [CVE-2026-123696](https://wpscan.com/vulnerability/60efadce-ae1b-448c-9e9c-aa65ee5e028d), two-factor authentication reset
-- [CVE-2026-123697](https://wpscan.com/vulnerability/58f2562b-e108-46ab-92bb-3430109dab1f), two-factor code and secret disclosure
-- [CVE-2026-123698](https://wpscan.com/vulnerability/f13ecbe7-8abb-4736-be5c-fd38f402181c), plugin settings disclosure via REST API
-- [CVE-2026-123699](https://wpscan.com/vulnerability/344ca520-dc28-4d52-a400-559d23359d23), forced plugin, theme and core updates
-- [CVE-2026-123700](https://wpscan.com/vulnerability/3facdee3-eb7e-458c-b496-9946f8e2d1f0), mass comment deletion
-- [CVE-2026-123701](https://wpscan.com/vulnerability/9d65f64f-b9d5-488d-a81d-4013a1b1fc9e), plugin settings reset
-- [CVE-2026-123702](https://wpscan.com/vulnerability/28de2af4-74aa-497d-9f1a-69d40c72fea5), wp-config keys and salts reset and denial of service
-- [CVE-2026-123703](https://wpscan.com/vulnerability/6b255385-26ae-416c-8c2d-a673508aa212), arbitrary user logout
-- [CVE-2026-123704](https://wpscan.com/vulnerability/b7e8fa76-32c0-48ea-a685-2a75ffe94cd1), administrator email address disclosure
-- [CVE-2026-123705](https://wpscan.com/vulnerability/cb9bbd7a-c13a-4129-a910-45746af203ce), server configuration information disclosure
+- [CVE-2026-123696](https://wpscan.com/vulnerability/60efadce-ae1b-448c-9e9c-aa65ee5e028d), two-factor authentication reset, CVSS 7.5
+- [CVE-2026-123697](https://wpscan.com/vulnerability/58f2562b-e108-46ab-92bb-3430109dab1f), two-factor code and secret disclosure, CVSS 7.5
+- [CVE-2026-123698](https://wpscan.com/vulnerability/f13ecbe7-8abb-4736-be5c-fd38f402181c), plugin settings disclosure via REST API, CVSS 5.3
+- [CVE-2026-123699](https://wpscan.com/vulnerability/344ca520-dc28-4d52-a400-559d23359d23), forced plugin, theme and core updates, CVSS 4.8
+- [CVE-2026-123700](https://wpscan.com/vulnerability/3facdee3-eb7e-458c-b496-9946f8e2d1f0), mass comment deletion, CVSS 7.5
+- [CVE-2026-123701](https://wpscan.com/vulnerability/9d65f64f-b9d5-488d-a81d-4013a1b1fc9e), plugin settings reset, CVSS 5.3
+- [CVE-2026-123702](https://wpscan.com/vulnerability/28de2af4-74aa-497d-9f1a-69d40c72fea5), wp-config keys and salts reset and denial of service, CVSS 6.5
+- [CVE-2026-123703](https://wpscan.com/vulnerability/6b255385-26ae-416c-8c2d-a673508aa212), arbitrary user logout, CVSS 5.3
+- [CVE-2026-123704](https://wpscan.com/vulnerability/b7e8fa76-32c0-48ea-a685-2a75ffe94cd1), administrator email address disclosure, CVSS 5.3
+- [CVE-2026-123705](https://wpscan.com/vulnerability/cb9bbd7a-c13a-4129-a910-45746af203ce), server configuration information disclosure, CVSS 5.3
 
 The same list is on my [research page](https://benihacking.top/research.html).
 
