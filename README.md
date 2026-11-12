@@ -24,7 +24,7 @@ find real bugs in other people's code. prove every one of them.
 fix them properly, with tests. get the fix merged.
 
 $ ./status --now
-52 PRs merged in the current sprint to 100, across mypy, Home Assistant,
+54 PRs merged in the current sprint to 100, across mypy, Home Assistant,
 Payload CMS, pnpm, Medusa, prettier/plugin-php and more.
 10 CVEs published on WPScan on 2026-11-09, listed below.
 first paid bug bounty accepted on YesWeHack.
@@ -46,7 +46,7 @@ first paid bug bounty accepted on YesWeHack.
 
 ## ~/open-source
 
-I spend most of my time on open source and security research. I find real bugs, fix them, and get the fixes merged. 52 merged pull requests in my current sprint toward 100, sitting in mypy, Home Assistant, Payload CMS, Medusa, pnpm, prettier plugin-php, and a long list of smaller projects. I prefer fixes with tests over drive-by changes, and I stay on a thread until the maintainer is satisfied.
+I spend most of my time on open source and security research. I find real bugs, fix them, and get the fixes merged. 54 merged pull requests in my current sprint toward 100, sitting in mypy, Home Assistant, Payload CMS, Medusa, pnpm, prettier plugin-php, and a long list of smaller projects. I prefer fixes with tests over drive-by changes, and I stay on a thread until the maintainer is satisfied.
 
 <div align="center">
 
